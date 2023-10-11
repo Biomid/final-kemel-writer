@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/video/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/video/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/video/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/video/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/video/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/video/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/video/vendor/spatie/temporary-directory" />
+      <path value="$PROJECT_DIR$/video/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/video/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/video/vendor/composer" />
+      <path value="$PROJECT_DIR$/video/vendor/evenement/evenement" />
+      <path value="$PROJECT_DIR$/video/vendor/php-ffmpeg/php-ffmpeg" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
+</project>

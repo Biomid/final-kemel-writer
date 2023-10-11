@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/video/vendor/symfony/var-exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/video/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/video/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/video/vendor/symfony/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/video/vendor/symfony/cache-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/video/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/video/vendor/spatie/temporary-directory" />
+      <excludeFolder url="file://$MODULE_DIR$/video/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/video/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/video/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/video/vendor/evenement/evenement" />
+      <excludeFolder url="file://$MODULE_DIR$/video/vendor/php-ffmpeg/php-ffmpeg" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
